@@ -1,2 +1,3 @@
 # West-Nile-Virus-Files
-West nile virus datasets are freely available here
+The cleaned datasets used in the WNV project can be found here. Original datasets can be obtained from the WOAH/WAHIS database
+The data has been published with permission.
